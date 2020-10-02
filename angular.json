@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "InstaPay"
+    }
+  },
+  "defaultProject": "InstaPay",
+  "cli": {
+    "analytics": false
+  }
 }
